@@ -1,6 +1,6 @@
-# 这是修宇萌的python练手项目
-# 我只是一个python小白（Emm, I'm only a newcomer)
-1.  使用 pygame 创建图形窗口
+# python练手项目
+# 飞机大战
+1. 使用 pygame 创建图形窗口
 1.1  游戏的初始化和退出
 1.2  理解游戏中的坐标系
 1.3  创建游戏主窗口
